@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f923d0e2.css",
+    "main.js": "/static/js/main.0a568025.js",
+    "static/media/logo.svg": "/static/media/logo.424a0cdc836123b4079b606b27514cf4.svg",
+    "static/media/sanika.jpg": "/static/media/sanika.739d9460098c4097054c.jpg",
+    "static/media/акпк.jpg": "/static/media/акпк.bf015cffd16168ce671d.jpg",
+    "static/media/DEFT.jpg": "/static/media/DEFT.5ac66c976c80e401d5a2.jpg",
+    "static/media/oVtech.jpg": "/static/media/oVtech.343dc04becc1ca9e0ec8.jpg",
+    "static/media/бп.jpg": "/static/media/бп.c48535a6a6ec8bb1d82a.jpg",
+    "static/media/kasi.jpg": "/static/media/kasi.c3a8637652296f6fd9e4.jpg",
+    "static/media/verdis.jpg": "/static/media/verdis.f2f42ff125df8f5a2de6.jpg",
+    "static/media/galaxy.jpg": "/static/media/galaxy.29605cf6bc6a39382f07.jpg",
+    "static/media/kum.jpg": "/static/media/kum.74002640d675d76a1222.jpg",
+    "static/media/dovidka.svg": "/static/media/dovidka.4997eb7ee45f71a12cd7.svg",
+    "static/media/product.svg": "/static/media/product.b565bb1b603e1cb41102.svg",
+    "static/media/use.svg": "/static/media/use.6be3a78f49bf79ebc92e.svg",
+    "static/media/logo-mini.svg": "/static/media/logo-mini.7fd1a604fc13e45bd4f7273c0a3818bf.svg",
+    "static/media/operat.svg": "/static/media/operat.f68f0dd8d0cb1a79cbc4.svg",
+    "static/media/users.svg": "/static/media/users.136904fc202def335c63.svg",
+    "static/media/user_icon.svg": "/static/media/user_icon.38ea95936bb22b2de6d3.svg",
+    "index.html": "/index.html",
+    "static/media/statistik.svg": "/static/media/statistik.87c26160db914c9691ba.svg",
+    "main.f923d0e2.css.map": "/static/css/main.f923d0e2.css.map",
+    "main.0a568025.js.map": "/static/js/main.0a568025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f923d0e2.css",
+    "static/js/main.0a568025.js"
+  ]
+}
